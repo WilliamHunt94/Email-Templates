@@ -1,0 +1,18 @@
+Changed the width that the media query activates at to 550px to prevent broken layout on certain mobile phones
+
+Added border="0" to every <a> element to prevent lotus notes issues
+
+Added target="blank" to every <a> element and made sure all had links(href)
+
+Changed the 4 grid columns with text so that the headings are <h1> elements instead of <p> elements
+
+Added a media query to bottom heading text to solve mobile spacing issues
+
+Added a media query mobile hide class to prevent repeating 25th of december text on mobile when columns stack
+
+Changed all the "pink" color css declarations to the hexadecimal value for increased browser support for css
+
+Line 145-146 "fixed missing tr tag"
+
+Added Preview text
+
